@@ -1,0 +1,32 @@
+[
+    {
+        "destino": "Paris",
+        "foto": "./images/paris.jpg",
+        "descricao": "Descubra a cidade do amor, com seus belos monumentos, cultura vibrante e culinária refinada.",
+        "preco": 1500
+    },
+    {
+        "destino": "Tóquio",
+        "foto": "./images/toquio.jpg",
+        "descricao": "Explore uma metrópole futurista com templos antigos, tecnologia de ponta e gastronomia incomparável.",
+        "preco": 2000
+    },
+    {
+        "destino": "Nova York",
+        "foto": "./images/new_york.jpg",
+        "descricao": "Experimente a cidade que nunca dorme, cheia de arranha-céus, arte e entretenimento em cada esquina.",
+        "preco": 1800
+    },
+    {
+        "destino": "Roma",
+        "foto": "./images/roma.jpg",
+        "descricao": "Viaje de volta no tempo, explorando ruínas antigas, monumentos históricos e delícias italianas.",
+        "preco": 1300
+    },
+    {
+        "destino": "Sydney",
+        "foto": "./images/sydney.jpg",
+        "descricao": "Descubra praias ensolaradas, a icônica Ópera de Sydney e uma cultura vibrante à beira-mar.",
+        "preco": 2200
+    }
+]
